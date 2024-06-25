@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: "Readex Pro", sans-serif;
+	font-style: normal;
+}
+
+.contenedor-principal{
+	border: 1px solid black;
+	width: 80vw ;
+	height: auto;
+
+}
+.contenedor-infoUser{
+	display: flex;
+}
+
+.descarga{
+	border: 1px solid red;
+	height: 50px;
+}
