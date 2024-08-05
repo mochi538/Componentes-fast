@@ -1,10 +1,10 @@
-import BarraLateralOpciones from "./components/BarraLateral";
+import Documento from "./components/ModalVisualizacion";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <BarraLateralOpciones />
+      <Documento />
     </>
   );
 }

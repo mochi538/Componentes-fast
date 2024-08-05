@@ -34,10 +34,8 @@ export default function BarraLateralOpciones() {
             <p>Contenido de la queja</p>
 
             <section>
-              {/* <label for="archivoEvidencia">
-                Archivo de evidencia adjunto:
-              </label> */}
-              <input class="descarga" type="file" name="archivoEvidencia" />
+              
+
             </section>
             <label for="archivoEvidencia">Fecha de envio: </label>
             <input type="date" />
